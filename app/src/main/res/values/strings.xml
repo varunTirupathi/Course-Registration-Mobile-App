@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Course Registration Application</string>
+    <string name="course_id">Course ID</string>
+    <string name="course_name">Course name</string>
+    <string name="term">Term</string>
+    <string name="prerequsite">Prerequisite</string>
+    <string name="register_course">Register Course</string>
+</resources>
