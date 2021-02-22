@@ -1,5 +1,5 @@
 # Course-Registration-Mobile-App
-This Android mobile application is developed as part of my Master course curriculum.
+This Android mobile application is developed as part of my Masters Course Curriculum.
 
 Components Used in application: 1) Recycler view
                                 2) Tab layout
