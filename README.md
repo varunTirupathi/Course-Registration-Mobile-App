@@ -11,6 +11,7 @@ Components Used in application: 1) Recycler view
 How Application works:
 
 There are two Tab views in the application. 1) Available courses and 2) Enrolled courses
+
 In Tab 1 there are two layouts where one layout shows the list of available courses in recycler view and the other layout shows the course details. When the user clicks on any course from available courses the corresponding course details will be automatically popped up in the edit text details so that user can view the course details and then register for the course.
 
 Validations in Tab 1:
